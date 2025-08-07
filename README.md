@@ -31,7 +31,7 @@ pip install catkin_pkg
 1. **Run the application:**
 
    ```bash
-   python bag_splitter_gui.py
+   python gui_rosbag_splitter.py
    ```
 
 2. **Using the GUI:**
